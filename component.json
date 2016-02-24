@@ -1,0 +1,12 @@
+{
+    "name": "lodash.isbuffer",
+    "description": "The lodash method `_.isBuffer` exported as a module.",
+    "repos": "https://github.com/lodash/lodash.git",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "lodash._root": "^3.0.0"
+    },
+    "main": "index.js",
+    "version": "4.3.0"
+}
